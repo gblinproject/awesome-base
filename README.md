@@ -122,7 +122,9 @@ and more.
 - **[Extra Finance](https://app.extrafi.io/)**: Extra Finance is a leveraged
   yield strategy & lending protocol.
 
-- **[Harvest Finance](https://harvest.finance)**: Taking advantage of the yield
+- **[GBLIN](https://gblin.digital)**: GBLIN is a NAV-backed basket token (cbBTC, WETH, USDC) on Base with an automated on-chain crash-response policy, x402 pay-per-call endpoints, and a free MCP server for AI agents.
+
+- - **[Harvest Finance](https://harvest.finance)**: Taking advantage of the yield
   opportunities in DeFi can be a costly process in terms of time, risk and gas
   costs. Harvest Finance does the hard work of scouring the fields of DeFi for
   the best and safest yields, brings them to a single UX, and saves you a ton on
